@@ -1,0 +1,13 @@
+
+]
+java:S1854"@Remove this useless assignment to local variable "myMaxIntTest".(‡¼ŸÀ8ê·î.
+N
+java:S1481"1Remove this unused "myMaxIntTest" local variable.(‡¼ŸÀ8ê·î.
+I
+java:S1481	",Remove this unused "myValue" local variable.(˜ÛÀù8ê·î.
+R
+java:S1481""0Remove this unused "myLongValue" local variable.(·ñ×Ùùÿÿÿÿ8Ë¸ùî.
+X
+java:S1854	";Remove this useless assignment to local variable "myValue".(˜ÛÀù8ê·î.
+a
+java:S1854""?Remove this useless assignment to local variable "myLongValue".(·ñ×Ùùÿÿÿÿ8Ë¸ùî.
