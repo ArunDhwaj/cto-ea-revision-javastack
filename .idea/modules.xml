@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/firststeps/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/firststeps/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/firststeps/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/firststeps/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/controlflowstatements/DayOfTheWeekChanllenge/DayOfTheWeekChanllenge.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/controlflowstatements/DayOfTheWeekChanllenge/DayOfTheWeekChanllenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/firststeps/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/firststeps/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/firststeps/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/firststeps/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDSAlgo/JavaDSAlgo.iml" filepath="$PROJECT_DIR$/JavaDSAlgo/JavaDSAlgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/expressionstatementscodeblockmethods/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/expressionstatementscodeblockmethods/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/firststeps/PrimitiveTypeChallenge/PrimitiveTypeChallenge.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/firststeps/PrimitiveTypeChallenge/PrimitiveTypeChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/expressionstatementscodeblockmethods/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/expressionstatementscodeblockmethods/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/expressionstatementscodeblockmethods/SpeedConverter/SpeedConverter.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/expressionstatementscodeblockmethods/SpeedConverter/SpeedConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/controlflowstatements/Switch/Switch.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/controlflowstatements/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming-masterclass-for-software-developers/expressionstatementscodeblockmethods/checkpositivenegativenumber/checkpositivenegativenumber.iml" filepath="$PROJECT_DIR$/java-programming-masterclass-for-software-developers/expressionstatementscodeblockmethods/checkpositivenegativenumber/checkpositivenegativenumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cto-ea-revision-javastack.iml" filepath="$PROJECT_DIR$/cto-ea-revision-javastack.iml" />
+    </modules>
+  </component>
+</project>

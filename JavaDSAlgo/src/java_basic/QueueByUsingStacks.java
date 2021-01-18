@@ -44,6 +44,7 @@ public class QueueByUsingStacks {
 
         x = stack2.pop();
 
+        //Post processing
         if(stack1.isEmpty())
         {
             while (!stack2.isEmpty())

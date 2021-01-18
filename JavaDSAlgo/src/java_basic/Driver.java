@@ -7,11 +7,9 @@ public class Driver
     public static void main(String[] args) {
 
         QueueByUsingStacks q = new QueueByUsingStacks();
-
         Scanner s = new Scanner(System.in);
 
         System.out.println("Enter custom queue opertion option: [ 1: enqueue, 2: dequeue, -1: exit");
-
         int option = s.nextInt();
 
         while(option != -1) {
@@ -32,16 +30,12 @@ public class Driver
                     break;
 
                 case -1:
+                    s.close();
                     break;
             }
 
             System.out.println("Enter custom queue opertion option: [ 1: enqueue, 2: dequeue, -1: exit");
             option = s.nextInt();
         }
-
-//        q.enqueueTo(1);
-//        q.enqueueTo(2);
-//        q.enqueueTo(3);
-//        q.print();
     }
 }
